@@ -1,0 +1,17 @@
+#image-caption
+{
+  width: 400px;
+  display: center;
+   height: auto;
+}
+
+    
+        
+ #image
+{
+  max-width: 100%;
+  hight: auto;
+  margin: auto;
+ display: block;
+}
+
