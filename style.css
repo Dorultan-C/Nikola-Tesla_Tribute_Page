@@ -5,7 +5,9 @@
   height: auto;
 }
 
-    
+    .li-align {
+      list-style: none;
+    }
         
  #image
 {
